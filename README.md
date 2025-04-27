@@ -18,7 +18,7 @@ XploitGuard is a powerful and lightweight tool designed for automated vulnerabil
 ✏️ Configurable scan options
 
 🛠️ Installation
-git clone https://github.com/Ankitverma0902/xploitguard.git
+git clone https://github.com/Ankitverma0902/xploitguard-tool.git
 cd xploitguard
 npm install
 npm run dev
