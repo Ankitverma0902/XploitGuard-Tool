@@ -1,4 +1,5 @@
-XploitGuard
+# XploitGuard
+
 Automated Vulnerability Scanning Tool
 
 XploitGuard is a powerful and lightweight tool designed for automated vulnerability scanning across web applications, APIs, and networks. Built for security professionals, developers, and enthusiasts, it helps identify potential security weaknesses quickly and efficiently.
@@ -16,21 +17,7 @@ XploitGuard is a powerful and lightweight tool designed for automated vulnerabil
 
 ✏️ Configurable scan options
 
-📂 Project Structure
-bash
-Copy
-Edit
-├── src/                   # Main source code
-├── index.html              # Entry point
-├── package.json            # Project metadata and dependencies
-├── tailwind.config.js      # TailwindCSS configuration
-├── vite.config.ts          # Vite bundler configuration
-├── tsconfig.json           # TypeScript configuration
-└── README.md               # Project documentation
 🛠️ Installation
-bash
-Copy
-Edit
 git clone https://github.com/Ankitverma0902/xploitguard.git
 cd xploitguard
 npm install
